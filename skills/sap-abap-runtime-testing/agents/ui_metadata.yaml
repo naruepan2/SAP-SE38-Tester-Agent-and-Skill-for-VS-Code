@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAP ABAP Runtime Tester"
+  short_description: "Controlled runtime testing with first-divergence and defect-chain analysis"
+  brand_color: "#0A6ED1"

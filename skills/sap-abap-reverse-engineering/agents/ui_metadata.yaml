@@ -1,0 +1,4 @@
+interface:
+  display_name: "SAP ABAP Reverse Engineer"
+  short_description: "Read-only SAP reverse engineering and Functional Specification generation"
+  brand_color: "#0A6ED1"
